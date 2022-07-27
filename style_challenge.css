@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightblue;
+    padding: 0 1rem;   
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 0.8rem;
+}
